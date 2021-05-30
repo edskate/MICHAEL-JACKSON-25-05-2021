@@ -1,0 +1,11 @@
+*
+div{
+    padding: 5%;
+    box-shadow: 5px 5px 5px 10px black;
+    width: 500px;
+    margin: 10%;
+}
+h1{
+    text-align: center;
+    margin-top: 10%;
+}
